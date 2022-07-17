@@ -1,0 +1,15 @@
+a is equal to 1
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+5
+5
+5
+5
+5
+...
+
+
+will continue to run because the value of i is not changing so the condition of the while loop is always true

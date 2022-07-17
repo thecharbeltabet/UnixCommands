@@ -1,0 +1,25 @@
+Output:
+5
+5
+epita
+epita is the best school
+5
+2
+3
+4
+best school
+the best
+
+
+
+Explanation:Print...
+Number of elements in the array
+Also the number of elements in the array (same as first / default)
+Only the first element of the array 
+All the elements in the array
+Number of chars in the first element
+Number of chars in the second element
+Number of chars in the third element
+Number of chars in the fourth element
+Everything except the first three elements
+From the second element, two elements 

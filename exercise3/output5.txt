@@ -1,0 +1,21 @@
+a is equal to 1
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+5
+5
+5
+5
+5
+5
+5
+5
+...
+
+
+
+
+
+Comment: You tried to use script number 2 which is an infinite loop and increment i from here to stop the while loop. But it didn't work! so this one is an infinite loop too.
